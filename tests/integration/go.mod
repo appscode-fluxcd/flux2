@@ -17,7 +17,7 @@ require (
 	github.com/fluxcd/pkg/runtime v0.110.3
 	github.com/fluxcd/source-controller/api v1.8.5
 	github.com/fluxcd/test-infra/tftestenv v0.0.0-20260419142339-c6535d1fff77
-	github.com/go-git/go-git/v5 v5.19.1
+	github.com/go-git/go-git/v5 v5.19.2
 	github.com/google/go-containerregistry v0.21.6
 	github.com/hashicorp/terraform-exec v0.25.2
 	github.com/hashicorp/terraform-json v0.27.2
